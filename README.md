@@ -26,7 +26,7 @@ Employee
 
 Department
 
-<img width="290" height="43" alt="image" src="https://github.com/user-attachments/assets/a6cb861a-5b86-4570-a157-e5dd42b4c7e4" />
+[<img width="290" height="43" alt="image" src="https://github.com/user-attachments/assets/a6cb861a-5b86-4570-a157-e5dd42b4c7e4" />](https://github.com/CarlosRamos-code/BD_Company)
 
 Department Locations
 
@@ -42,5 +42,5 @@ Works On
 
 Dependent
 
-<img width="356" height="57" alt="image" src="https://github.com/user-attachments/assets/e42cdf1d-1153-4847-8695-8b82fc8e99e6" />
+<img width="372" height="41" alt="image" src="https://github.com/user-attachments/assets/d835212c-282f-48b4-9da4-3e51e0e70503" />
 
